@@ -9,3 +9,4 @@
 7- git commit --amend (permite editar los commits, dentro del editor comandos de unix), (i para insertar, [esc] y luego :wq! para grabar y salir de una).
 8- git checkout -b rama-heroes (creo y cambio de rama)
 9- git branch (muestra la rama actual)
+10- git checkout master (cambiar a una rama)
