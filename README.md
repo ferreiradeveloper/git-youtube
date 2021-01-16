@@ -17,4 +17,5 @@
     2. git remote add origin https://github.com/ferreiradeveloper/git-youtube.git (conect al repo)
        git branch -M main (rename the branch)
        git push -u origin main (subida al repo)
-    14- git push (cuando esta seteado el repo solo hacemos push pasa subir cambios)
+    14. git push (cuando esta seteado el repo solo hacemos push pasa subir cambios)
+    15. git commit -am (hace los dos pasos de add + commit)
